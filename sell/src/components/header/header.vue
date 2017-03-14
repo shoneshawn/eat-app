@@ -1,6 +1,6 @@
 <template>
         <div class="header">
-            I am header
+            我是header
         </div>
 </template>
 <script>
