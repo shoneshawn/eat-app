@@ -1,5 +1,5 @@
 
-*学习vue的demo
+*vue demo
 
 ### 项目技术架构
 ***
